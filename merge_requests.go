@@ -2,8 +2,8 @@ package gogitlab
 
 import (
 	"encoding/json"
-	"time"
 	"fmt"
+	"time"
 )
 
 const (
